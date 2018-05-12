@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8956'
     url: http://www.gutenberg.org/2009/agents/8956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19907#Around-the-World-in-Ten-Days
 gutenberg_issued: '2006-11-23'
 gutenberg_type: Text
 identifiers:
